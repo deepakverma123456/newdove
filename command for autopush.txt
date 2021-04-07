@@ -1,0 +1,476 @@
+rname "stpl".
+stpl@192.0.0.18's password:
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-197-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+180 packages can be updated.
+4 updates are security updates.
+
+Could not load list of meta packages: [Errno 12] Cannot allocate memory
+Could not load list of meta packages: [Errno 12] Cannot allocate memory
+
+
+*** System restart required ***
+Last login: Tue Apr  6 19:09:18 2021 from 192.0.0.48
+stpl@cw:~$ sudo su
+[sudo] password for stpl:
+root@cw:/home/stpl# cd /var/www/html/
+root@cw:/var/www/html# ll
+total 5452716
+drwxrwxrwx 72 stpl stpl      4096 Apr  6 15:25 ./
+drwxrwxrwx  5 root root      4096 Nov  2 11:38 ../
+-rwxrwxrwx  1 stpl stpl  30726974 Jul 18  2017 2017-07-17 21.11 FIXIT Introducti                                                                                        on Meeting .mp4*
+-rwxrwxrwx  1 stpl stpl      3943 Apr 14  2016 69_70.xml*
+drwxrwxrwx  2 stpl stpl      4096 Sep 29  2016 adidas/
+-rwxrwxrwx  1 stpl stpl 208223404 Feb  9  2016 app09_02_2016.zip*
+drwxrwxrwx  2 stpl stpl      4096 Jul 27  2016 application/
+drwxrwxrwx  5 stpl stpl      4096 Nov 29  2017 AudioToText/
+drwxrwxrwx 10 stpl stpl      4096 Jul  8  2020 autojson_python/
+drwxrwxrwx 18 stpl stpl      4096 Nov  9 17:00 automation/
+drwxrwxrwx  2 stpl stpl      4096 Jul 15  2019 aw_test/
+drwxrwxrwx  7 stpl stpl      4096 Jan 15  2018 b2bcartwire/
+-rwxrwxrwx  1 stpl stpl    150996 Jan 31  2019 bootstrap.min.css*
+drwxrwxrwx  4 stpl stpl      4096 Feb 10  2018 broken_link/
+drwxrwxrwx  2 stpl stpl      4096 Feb 14  2017 BSF/
+drwxrwxrwx  4 stpl stpl      4096 Jun 23  2016 camera/
+drwxrwxrwx  8 stpl stpl      4096 Jun  6  2017 campaign/
+drwxrwxrwx  6 stpl stpl      4096 Aug 18  2017 campaigndemo/
+-rw-rw-r--  1 stpl stpl       517 Mar 24 16:15 campaign.html
+-rwxrwxrwx  1 stpl stpl  95346992 Mar 23  2017 campaign_widget_details.sql*
+-rwxrwxrwx  1 stpl stpl 109532004 Mar 23  2017 campaign_widget_source_view.sql*
+drwxrwxrwx  6 stpl stpl      4096 Jan 25  2018 cartwire-2/
+drwxrwxrwx  8 stpl stpl      4096 Mar  5  2018 Cartwire-2.0/
+-rwxrwxrwx  1 stpl stpl   2363293 Jun  7  2016 cartwire_co_cron_update.sql*
+drwxrwxrwx  3 stpl stpl     36864 Nov 27  2017 CartWireScrapy/
+drwxrwxrwx  3 stpl stpl      4096 Dec 21  2015 CartWireScrapy_21_12_2015/
+drwxrwxrwx  4 stpl stpl      4096 Nov 21  2018 cartwire-sg/
+-rwxrwxrwx  1 stpl stpl 119030319 Feb 17  2017 cartwire_support_live_31_01_17.sq                                                                                        l*
+-rwxrwxrwx  1 stpl stpl       445 Apr 11  2017 checkmail.php*
+drwxrwxrwx  9 stpl stpl      4096 Mar  9  2017 china/
+-rwxrwxrwx  1 stpl stpl      8038 Aug 11  2016 comfortapi.php*
+drwxrwxrwx  5 stpl stpl      4096 Mar 26 14:48 confirm_retailer_availibility/
+drwxrwxrwx  2 stpl stpl      4096 Dec 20  2018 cw2.2/
+drwxrwxrwx  3 stpl stpl      4096 Nov 16  2018 cw3/
+drwxrwxrwx  8 stpl stpl      4096 Oct 22  2018 cw3.0_html/
+drwxrwxrwx  5 stpl stpl      4096 Oct 23  2018 cw3_demo/
+drwxrwxrwx  6 stpl stpl      4096 Jul  5  2017 cwapi/
+drwxrwxrwx  8 stpl stpl      4096 Mar 22  2017 cwcamp/
+drwxrwxrwx  2 stpl stpl      4096 Dec  7  2016 cwchina/
+-rwxrwxrwx  1 stpl stpl    101346 Feb  9  2016 cw_china_live.sql*
+-rwxrwxrwx  1 stpl stpl 426059416 Nov  4  2016 cw_db_04-11-2016.sql*
+-rwxrwxrwx  1 stpl stpl 254536846 Aug 29  2019 cw_db_05-08-2019.zip*
+-rwxrwxrwx  1 stpl stpl 201332881 Mar 31  2016 cw_db_31-03-2016.sql*
+-rwxrwxrwx  1 stpl stpl 521158580 May 31  2017 cw_db_31-05-2017.sql*
+-rwxrwxrwx  1 stpl stpl 554001793 Aug  2  2017 cw_live_db_020817.sql*
+-rwxrwxrwx  1 stpl stpl 538945681 Jul 25  2017 cw_qa_db_25_07_17.sql*
+drwxrwxrwx  2 stpl stpl      4096 Aug 19  2019 cwqa_ret/
+-rwxrwxrwx  1 stpl stpl 529061533 Jul 25  2017 CW-srmtechsol_com_sql(1).sql*
+drwxrwxrwx 18 stpl stpl      4096 Feb 21  2017 cwsupport/
+-rwxrwxrwx  1 stpl stpl 173265465 Feb 17  2017 cwsupportlive.zip*
+-rwxrwxrwx  1 stpl stpl 175780484 Feb 17  2017 cw_support.sql*
+drwxrwxrwx 18 stpl stpl      4096 Feb 21  2017 cwsupprt/
+-rwxrwxrwx  1 stpl stpl 382851085 Jun 13  2017 db_dump-13-06-2017.sql*
+drwxrwxrwx 12 stpl stpl      4096 Dec  5  2019 demo/
+drwxrwxr-x  7 stpl stpl      4096 Feb 15 19:02 demo_campaign/
+drwxrwxrwx  2 stpl stpl      4096 May 26  2017 doveHK/
+-rwxrwxrwx  1 stpl stpl 421136082 Oct 25  2016 Dump20161024.sql*
+drwxrwxrwx  4 stpl stpl      4096 Dec  6  2019 e-inventory/
+drwxrwxrwx  6 stpl stpl      4096 Dec  6  2019 e-training/
+drwxrwxrwx  3 stpl stpl      4096 Aug  3  2016 gitDemo/
+drwxrwxrwx  3 stpl stpl      4096 Jul 22  2016 gitStage/
+drwxrwxrwx  3 stpl stpl      4096 Aug  2  2016 gitTest/
+drwxrwxrwx 11 stpl stpl      4096 Jun  2  2020 global_domain_xpath/
+drwxrwxrwx  3 stpl stpl      4096 May 24  2017 hawkapi/
+drwxrwxrwx  2 stpl stpl      4096 May 19  2020 Image_compare/
+-rwxrwxrwx  1 stpl stpl      6059 Dec 27  2018 index.html*
+-rwxrwxrwx  1 stpl stpl        20 Jan 29  2019 info1.php*
+drwxrwxrwx  6 stpl stpl      4096 Aug 21  2017 ionic_pro/
+drwxrwxrwx 11 stpl stpl      4096 Aug  6  2018 i_scrape/
+drwxrwxrwx  4 stpl stpl      4096 Nov 30  2015 Lakme/
+-rwxrwxrwx  1 stpl stpl      1882 Aug  6  2018 libraries.py*
+drwxrwxrwx  2 stpl stpl      4096 Mar 16  2016 load/
+-rwxrwxrwx  1 stpl stpl       422 Jun 18  2020 locale.php*
+-rwxrwxrwx  1 stpl stpl     44687 Sep  8  2016 map_2_4.xml*
+-rwxrwxrwx  1 stpl stpl      1571 Jun 13  2016 map_62_62.xml*
+-rwxrwxrwx  1 stpl stpl      1088 Jun 13  2016 map_87_62.xml*
+drwxrwxrwx  3 stpl stpl      4096 Jan  7 16:52 mask/
+-rwxrwxrwx  1 stpl stpl      1462 May  2  2018 my.html*
+drwxrwxrwx 11 stpl stpl      4096 Jan 22  2019 new_common_spider/
+drwxrwxrwx  8 stpl stpl      4096 Jan 24  2017 new_common_spider_16-1-19/
+-rwxrwxrwx  1 stpl stpl       545 Jan  4  2019 no_retailer_widget.html*
+drwxrwxrwx  2 stpl stpl      4096 Sep 27  2016 OCR/
+drwxrwxrwx 11 stpl stpl      4096 Jun 17  2020 offer_collection_xpath/
+drwxrwxrwx 72 stpl stpl     12288 Sep 22  2020 OLD-SNWLive/
+drwxrwxrwx  4 stpl stpl      4096 Sep 25  2018 payment/
+drwxr-xr-x 12 stpl stpl      4096 Dec 10 12:01 phpmyadmin/
+-rwxrwxrwx  1 stpl stpl  10771787 Dec 20  2018 phpMyAdmin-4.8.4-all-languages.zi                                                                                        p*
+-rwxrwxrwx  1 stpl stpl    489307 May 11  2020 pma.php*
+drwxrwxrwx  2 stpl stpl      4096 Dec 18  2018 portdemo/
+drwxrwxrwx  7 stpl stpl      4096 Dec  7  2016 python_web_spider/
+drwxrwxrwx  6 stpl stpl      4096 Aug 21  2017 report/
+drwxrwxrwx  5 stpl stpl      4096 Mar 22  2017 report_10Apr_2017/
+drwxrwxrwx  6 stpl stpl      4096 Apr  3  2017 ruby_scraping/
+-rwxrwxrwx  1 stpl stpl       953 Sep 12  2019 safari_test.php*
+drwxr-xr-x  4 stpl stpl      4096 Apr  6 19:23 sarvesh/
+drwxrwxrwx  2 stpl stpl      4096 Jun 21  2016 screenCapture/
+drwxrwxrwx  2 stpl stpl      4096 Sep  2  2019 shell_test/
+drwxrwxrwx  6 stpl stpl      4096 Oct 28 18:37 shipit/
+drwxrwxrwx 54 stpl stpl      4096 Mar 16  2017 SNW/
+drwxrwxrwx 34 stpl stpl     12288 Apr  1 12:47 SNWLive/
+-rwxrwxrwx  1 stpl stpl 490329674 Sep 23  2020 SNWStage.zip*
+-rw-rw-r--  1 stpl stpl       661 Feb 26 15:56 standalone_v5.0.html
+drwxrwxrwx 14 stpl stpl      4096 Sep 27  2017 support/
+drwxrwxrwx 18 stpl stpl      4096 Feb 17  2017 support.cartwiretesting.com/
+drwxrwxrwx  2 stpl stpl      4096 Feb 17  2017 support.cwtesting.com/
+-rwxrwxrwx  1 stpl stpl     29852 Aug  3  2017 supportdesk.sql*
+-rwxrwxrwx  1 stpl stpl   2691525 Aug  3  2017 support.zip*
+drwxrwxrwx  4 stpl stpl      4096 Jun 21  2017 tab/
+drwxrwxrwx  3 stpl stpl      4096 Mar  6  2018 tab_account/
+-rwxrwxrwx  1 stpl stpl       483 Jul 24  2018 test_affilate.html*
+-rwxrwxrwx  1 stpl stpl       535 Aug  9  2018 test_fraud.html*
+-rwxrwxrwx  1 stpl stpl       306 Jul 19  2018 testing.php*
+drwxrwxrwx  3 stpl stpl      4096 Sep 26  2018 testphp/
+-rwxrwxrwx  1 stpl stpl 335110045 Oct 25  2016 uatbackdb251016.sql*
+drwxrwxrwx  5 stpl stpl      4096 Sep 25  2018 venv/
+-rwxrwxrwx  1 stpl stpl       746 Jan 23  2020 widget_S3.html*
+root@cw:/var/www/html# git clone https://github.com/deepakverma123456/DoveCamp.g                                                                                        it
+Cloning into 'DoveCamp'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+root@cw:/var/www/html# ll
+total 5452720
+drwxrwxrwx 73 stpl stpl      4096 Apr  7 10:33 ./
+drwxrwxrwx  5 root root      4096 Nov  2 11:38 ../
+-rwxrwxrwx  1 stpl stpl  30726974 Jul 18  2017 2017-07-17 21.11 FIXIT Introducti                                                                                        on Meeting .mp4*
+-rwxrwxrwx  1 stpl stpl      3943 Apr 14  2016 69_70.xml*
+drwxrwxrwx  2 stpl stpl      4096 Sep 29  2016 adidas/
+-rwxrwxrwx  1 stpl stpl 208223404 Feb  9  2016 app09_02_2016.zip*
+drwxrwxrwx  2 stpl stpl      4096 Jul 27  2016 application/
+drwxrwxrwx  5 stpl stpl      4096 Nov 29  2017 AudioToText/
+drwxrwxrwx 10 stpl stpl      4096 Jul  8  2020 autojson_python/
+drwxrwxrwx 18 stpl stpl      4096 Nov  9 17:00 automation/
+drwxrwxrwx  2 stpl stpl      4096 Jul 15  2019 aw_test/
+drwxrwxrwx  7 stpl stpl      4096 Jan 15  2018 b2bcartwire/
+-rwxrwxrwx  1 stpl stpl    150996 Jan 31  2019 bootstrap.min.css*
+drwxrwxrwx  4 stpl stpl      4096 Feb 10  2018 broken_link/
+drwxrwxrwx  2 stpl stpl      4096 Feb 14  2017 BSF/
+drwxrwxrwx  4 stpl stpl      4096 Jun 23  2016 camera/
+drwxrwxrwx  8 stpl stpl      4096 Jun  6  2017 campaign/
+drwxrwxrwx  6 stpl stpl      4096 Aug 18  2017 campaigndemo/
+-rw-rw-r--  1 stpl stpl       517 Mar 24 16:15 campaign.html
+-rwxrwxrwx  1 stpl stpl  95346992 Mar 23  2017 campaign_widget_details.sql*
+-rwxrwxrwx  1 stpl stpl 109532004 Mar 23  2017 campaign_widget_source_view.sql*
+drwxrwxrwx  6 stpl stpl      4096 Jan 25  2018 cartwire-2/
+drwxrwxrwx  8 stpl stpl      4096 Mar  5  2018 Cartwire-2.0/
+-rwxrwxrwx  1 stpl stpl   2363293 Jun  7  2016 cartwire_co_cron_update.sql*
+drwxrwxrwx  3 stpl stpl     36864 Nov 27  2017 CartWireScrapy/
+drwxrwxrwx  3 stpl stpl      4096 Dec 21  2015 CartWireScrapy_21_12_2015/
+drwxrwxrwx  4 stpl stpl      4096 Nov 21  2018 cartwire-sg/
+-rwxrwxrwx  1 stpl stpl 119030319 Feb 17  2017 cartwire_support_live_31_01_17.sq                                                                                        l*
+-rwxrwxrwx  1 stpl stpl       445 Apr 11  2017 checkmail.php*
+drwxrwxrwx  9 stpl stpl      4096 Mar  9  2017 china/
+-rwxrwxrwx  1 stpl stpl      8038 Aug 11  2016 comfortapi.php*
+drwxrwxrwx  5 stpl stpl      4096 Mar 26 14:48 confirm_retailer_availibility/
+drwxrwxrwx  2 stpl stpl      4096 Dec 20  2018 cw2.2/
+drwxrwxrwx  3 stpl stpl      4096 Nov 16  2018 cw3/
+drwxrwxrwx  8 stpl stpl      4096 Oct 22  2018 cw3.0_html/
+drwxrwxrwx  5 stpl stpl      4096 Oct 23  2018 cw3_demo/
+drwxrwxrwx  6 stpl stpl      4096 Jul  5  2017 cwapi/
+drwxrwxrwx  8 stpl stpl      4096 Mar 22  2017 cwcamp/
+drwxrwxrwx  2 stpl stpl      4096 Dec  7  2016 cwchina/
+-rwxrwxrwx  1 stpl stpl    101346 Feb  9  2016 cw_china_live.sql*
+-rwxrwxrwx  1 stpl stpl 426059416 Nov  4  2016 cw_db_04-11-2016.sql*
+-rwxrwxrwx  1 stpl stpl 254536846 Aug 29  2019 cw_db_05-08-2019.zip*
+-rwxrwxrwx  1 stpl stpl 201332881 Mar 31  2016 cw_db_31-03-2016.sql*
+-rwxrwxrwx  1 stpl stpl 521158580 May 31  2017 cw_db_31-05-2017.sql*
+-rwxrwxrwx  1 stpl stpl 554001793 Aug  2  2017 cw_live_db_020817.sql*
+-rwxrwxrwx  1 stpl stpl 538945681 Jul 25  2017 cw_qa_db_25_07_17.sql*
+drwxrwxrwx  2 stpl stpl      4096 Aug 19  2019 cwqa_ret/
+-rwxrwxrwx  1 stpl stpl 529061533 Jul 25  2017 CW-srmtechsol_com_sql(1).sql*
+drwxrwxrwx 18 stpl stpl      4096 Feb 21  2017 cwsupport/
+-rwxrwxrwx  1 stpl stpl 173265465 Feb 17  2017 cwsupportlive.zip*
+-rwxrwxrwx  1 stpl stpl 175780484 Feb 17  2017 cw_support.sql*
+drwxrwxrwx 18 stpl stpl      4096 Feb 21  2017 cwsupprt/
+-rwxrwxrwx  1 stpl stpl 382851085 Jun 13  2017 db_dump-13-06-2017.sql*
+drwxrwxrwx 12 stpl stpl      4096 Dec  5  2019 demo/
+drwxrwxr-x  7 stpl stpl      4096 Feb 15 19:02 demo_campaign/
+drwxr-xr-x  3 root root      4096 Apr  7 10:33 DoveCamp/
+drwxrwxrwx  2 stpl stpl      4096 May 26  2017 doveHK/
+-rwxrwxrwx  1 stpl stpl 421136082 Oct 25  2016 Dump20161024.sql*
+drwxrwxrwx  4 stpl stpl      4096 Dec  6  2019 e-inventory/
+drwxrwxrwx  6 stpl stpl      4096 Dec  6  2019 e-training/
+drwxrwxrwx  3 stpl stpl      4096 Aug  3  2016 gitDemo/
+drwxrwxrwx  3 stpl stpl      4096 Jul 22  2016 gitStage/
+drwxrwxrwx  3 stpl stpl      4096 Aug  2  2016 gitTest/
+drwxrwxrwx 11 stpl stpl      4096 Jun  2  2020 global_domain_xpath/
+drwxrwxrwx  3 stpl stpl      4096 May 24  2017 hawkapi/
+drwxrwxrwx  2 stpl stpl      4096 May 19  2020 Image_compare/
+-rwxrwxrwx  1 stpl stpl      6059 Dec 27  2018 index.html*
+-rwxrwxrwx  1 stpl stpl        20 Jan 29  2019 info1.php*
+drwxrwxrwx  6 stpl stpl      4096 Aug 21  2017 ionic_pro/
+drwxrwxrwx 11 stpl stpl      4096 Aug  6  2018 i_scrape/
+drwxrwxrwx  4 stpl stpl      4096 Nov 30  2015 Lakme/
+-rwxrwxrwx  1 stpl stpl      1882 Aug  6  2018 libraries.py*
+drwxrwxrwx  2 stpl stpl      4096 Mar 16  2016 load/
+-rwxrwxrwx  1 stpl stpl       422 Jun 18  2020 locale.php*
+-rwxrwxrwx  1 stpl stpl     44687 Sep  8  2016 map_2_4.xml*
+-rwxrwxrwx  1 stpl stpl      1571 Jun 13  2016 map_62_62.xml*
+-rwxrwxrwx  1 stpl stpl      1088 Jun 13  2016 map_87_62.xml*
+drwxrwxrwx  3 stpl stpl      4096 Jan  7 16:52 mask/
+-rwxrwxrwx  1 stpl stpl      1462 May  2  2018 my.html*
+drwxrwxrwx 11 stpl stpl      4096 Jan 22  2019 new_common_spider/
+drwxrwxrwx  8 stpl stpl      4096 Jan 24  2017 new_common_spider_16-1-19/
+-rwxrwxrwx  1 stpl stpl       545 Jan  4  2019 no_retailer_widget.html*
+drwxrwxrwx  2 stpl stpl      4096 Sep 27  2016 OCR/
+drwxrwxrwx 11 stpl stpl      4096 Jun 17  2020 offer_collection_xpath/
+drwxrwxrwx 72 stpl stpl     12288 Sep 22  2020 OLD-SNWLive/
+drwxrwxrwx  4 stpl stpl      4096 Sep 25  2018 payment/
+drwxr-xr-x 12 stpl stpl      4096 Dec 10 12:01 phpmyadmin/
+-rwxrwxrwx  1 stpl stpl  10771787 Dec 20  2018 phpMyAdmin-4.8.4-all-languages.zi                                                                                        p*
+-rwxrwxrwx  1 stpl stpl    489307 May 11  2020 pma.php*
+drwxrwxrwx  2 stpl stpl      4096 Dec 18  2018 portdemo/
+drwxrwxrwx  7 stpl stpl      4096 Dec  7  2016 python_web_spider/
+drwxrwxrwx  6 stpl stpl      4096 Aug 21  2017 report/
+drwxrwxrwx  5 stpl stpl      4096 Mar 22  2017 report_10Apr_2017/
+drwxrwxrwx  6 stpl stpl      4096 Apr  3  2017 ruby_scraping/
+-rwxrwxrwx  1 stpl stpl       953 Sep 12  2019 safari_test.php*
+drwxr-xr-x  4 stpl stpl      4096 Apr  6 19:23 sarvesh/
+drwxrwxrwx  2 stpl stpl      4096 Jun 21  2016 screenCapture/
+drwxrwxrwx  2 stpl stpl      4096 Sep  2  2019 shell_test/
+drwxrwxrwx  6 stpl stpl      4096 Oct 28 18:37 shipit/
+drwxrwxrwx 54 stpl stpl      4096 Mar 16  2017 SNW/
+drwxrwxrwx 34 stpl stpl     12288 Apr  1 12:47 SNWLive/
+-rwxrwxrwx  1 stpl stpl 490329674 Sep 23  2020 SNWStage.zip*
+-rw-rw-r--  1 stpl stpl       661 Feb 26 15:56 standalone_v5.0.html
+drwxrwxrwx 14 stpl stpl      4096 Sep 27  2017 support/
+drwxrwxrwx 18 stpl stpl      4096 Feb 17  2017 support.cartwiretesting.com/
+drwxrwxrwx  2 stpl stpl      4096 Feb 17  2017 support.cwtesting.com/
+-rwxrwxrwx  1 stpl stpl     29852 Aug  3  2017 supportdesk.sql*
+-rwxrwxrwx  1 stpl stpl   2691525 Aug  3  2017 support.zip*
+drwxrwxrwx  4 stpl stpl      4096 Jun 21  2017 tab/
+drwxrwxrwx  3 stpl stpl      4096 Mar  6  2018 tab_account/
+-rwxrwxrwx  1 stpl stpl       483 Jul 24  2018 test_affilate.html*
+-rwxrwxrwx  1 stpl stpl       535 Aug  9  2018 test_fraud.html*
+-rwxrwxrwx  1 stpl stpl       306 Jul 19  2018 testing.php*
+drwxrwxrwx  3 stpl stpl      4096 Sep 26  2018 testphp/
+-rwxrwxrwx  1 stpl stpl 335110045 Oct 25  2016 uatbackdb251016.sql*
+drwxrwxrwx  5 stpl stpl      4096 Sep 25  2018 venv/
+-rwxrwxrwx  1 stpl stpl       746 Jan 23  2020 widget_S3.html*
+root@cw:/var/www/html# cd DoveCamp/
+root@cw:/var/www/html/DoveCamp# ll
+total 12
+drwxr-xr-x  3 root root 4096 Apr  7 10:33 ./
+drwxrwxrwx 73 stpl stpl 4096 Apr  7 10:33 ../
+drwxr-xr-x  7 root root 4096 Apr  7 10:33 .git/
+root@cw:/var/www/html/DoveCamp# cd ..
+root@cw:/var/www/html# chown -R stpl:stpl DoveCamp/
+root@cw:/var/www/html# cd DoveCamp/
+root@cw:/var/www/html/DoveCamp# ll
+total 20
+drwxr-xr-x  3 stpl stpl 4096 Apr  7 10:34 ./
+drwxrwxrwx 73 stpl stpl 4096 Apr  7 10:33 ../
+drwxr-xr-x  7 stpl stpl 4096 Apr  7 10:33 .git/
+-rw-rw-r--  1 stpl stpl 5333 Apr  7 10:34 Widget_standalone_theme.php
+root@cw:/var/www/html/DoveCamp# cd .git/
+root@cw:/var/www/html/DoveCamp/.git# ll
+total 40
+drwxr-xr-x 7 stpl stpl 4096 Apr  7 10:33 ./
+drwxr-xr-x 3 stpl stpl 4096 Apr  7 10:34 ../
+drwxr-xr-x 2 stpl stpl 4096 Apr  7 10:33 branches/
+-rw-r--r-- 1 stpl stpl  274 Apr  7 10:33 config
+-rw-r--r-- 1 stpl stpl   73 Apr  7 10:33 description
+-rw-r--r-- 1 stpl stpl   23 Apr  7 10:33 HEAD
+drwxr-xr-x 2 stpl stpl 4096 Apr  7 10:33 hooks/
+drwxr-xr-x 2 stpl stpl 4096 Apr  7 10:33 info/
+drwxr-xr-x 4 stpl stpl 4096 Apr  7 10:33 objects/
+drwxr-xr-x 4 stpl stpl 4096 Apr  7 10:33 refs/
+root@cw:/var/www/html/DoveCamp/.git# vi config
+root@cw:/var/www/html/DoveCamp/.git# cd ..
+root@cw:/var/www/html/DoveCamp# ll
+total 20
+drwxr-xr-x  3 stpl stpl 4096 Apr  7 10:34 ./
+drwxrwxrwx 73 stpl stpl 4096 Apr  7 10:33 ../
+drwxr-xr-x  7 stpl stpl 4096 Apr  7 10:39 .git/
+-rw-rw-r--  1 stpl stpl 5333 Apr  7 10:34 Widget_standalone_theme.php
+root@cw:/var/www/html/DoveCamp# git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Widget_standalone_theme.php
+
+nothing added to commit but untracked files present (use "git add" to track)
+root@cw:/var/www/html/DoveCamp# git add .
+root@cw:/var/www/html/DoveCamp# git commit -m "first"
+[master (root-commit) f3e2ae8] first
+ 1 file changed, 98 insertions(+)
+ create mode 100644 Widget_standalone_theme.php
+root@cw:/var/www/html/DoveCamp# git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.48 KiB | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://deepakverma123456:Welcome!54321@github.com/deepakverma123456/DoveCamp                                                                                        .git
+ * [new branch]      master -> master
+root@cw:/var/www/html/DoveCamp# cd ..
+root@cw:/var/www/html# cd ..
+root@cw:/var/www# cd backup/
+root@cw:/var/www/backup# vi git.sh
+root@cw:/var/www/backup# ./git.sh
+[master 148289b] 123
+ 1 file changed, 98 insertions(+)
+ create mode 100644 Widget_standalone_theme.php
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.54 KiB | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://sarveshsrivastava-stpl:Welcome!54321@github.com/deepakverma123456/tes                                                                                        t123.git
+   41b3fa0..148289b  master -> master
+[master d9468d0] 123
+ 1 file changed, 1 insertion(+)
+ create mode 100644 info.php
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 307 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://deepakverma123456:Welcome!54321@github.com/deepakverma123456/DoveCamp                                                                                        .git
+   f3e2ae8..d9468d0  master -> master
+root@cw:/var/www/backup# crontab -e
+crontab: installing new crontab
+root@cw:/var/www/backup# vi git.sh
+root@cw:/var/www/backup# cd ..
+root@cw:/var/www# cd /html
+bash: cd: /html: No such file or directory
+root@cw:/var/www# cd html
+root@cw:/var/www/html# git clone https://github.com/deepakverma123456/newdove.gi                                                                                        t
+Cloning into 'newdove'...
+remote: Enumerating objects: 31, done.
+remote: Counting objects: 100% (31/31), done.
+remote: Compressing objects: 100% (29/29), done.
+remote: Total 31 (delta 2), reused 31 (delta 2), pack-reused 0
+Unpacking objects: 100% (31/31), done.
+Checking connectivity... done.
+root@cw:/var/www/html# cd newdove
+root@cw:/var/www/html/newdove# cd .git
+root@cw:/var/www/html/newdove/.git# vi config
+
+[1]+  Stopped                 vi config
+root@cw:/var/www/html/newdove/.git# vi config
+root@cw:/var/www/html/newdove/.git# vi config
+root@cw:/var/www/html/newdove/.git# root@cw:/var/www/html/DoveCamp# cd ..
+bash: root@cw:/var/www/html/DoveCamp#: No such file or directory
+root@cw:/var/www/html/newdove/.git# root@cw:/var/www/html# cd ..
+bash: root@cw:/var/www/html#: No such file or directory
+root@cw:/var/www/html/newdove/.git# root@cw:/var/www# cd backup/
+bash: root@cw:/var/www#: No such file or directory
+root@cw:/var/www/html/newdove/.git# root@cw:/var/www/backup# vi git.sh
+bash: root@cw:/var/www/backup#: No such file or directory
+root@cw:/var/www/html/newdove/.git# root@cw:/var/www/backup# ./git.sh
+bash: root@cw:/var/www/backup#: No such file or directory
+root@cw:/var/www/html/newdove/.git# cd ..
+root@cw:/var/www/html/newdove# cd ..
+root@cw:/var/www/html# cd ..
+root@cw:/var/www# cd backup/
+root@cw:/var/www/backup# vi git.sh
+root@cw:/var/www/backup# vi git.shroot@cw:/var/www/html# chown -R stpl:stpl DoveCamp/
+4 files to edit
+root@cw:/var/www/backup# cd ..
+root@cw:/var/www# cd html\
+> ^C
+root@cw:/var/www# cd html
+root@cw:/var/www/html# chown -R stpl:stpl nedove/
+chown: cannot access 'nedove/': No such file or directory
+root@cw:/var/www/html# chown -R stpl:stpl newdove/
+root@cw:/var/www/html# cd ..
+root@cw:/var/www# cd backup
+root@cw:/var/www/backup# vi git.sh
+#!/bin/sh
+
+su -s /bin/sh $user -c 'cd /var/www/html/sarvesh && /usr/bin/git add .'
+su -s /bin/sh $user -c 'cd /var/www/html/sarvesh && /usr/bin/git commit -m "123"'
+su -s /bin/sh $user -c 'cd /var/www/html/sarvesh && /usr/bin/git push'
+
+
+su -s /bin/sh $user -c 'cd /var/www/html/DoveCamp && /usr/bin/git add .'
+su -s /bin/sh $user -c 'cd /var/www/html/DoveCamp && /usr/bin/git commit -m "123"'
+su -s /bin/sh $user -c 'cd /var/www/html/DoveCamp && /usr/bin/git push'
+
+su -s /bin/sh $user -c 'cd /var/www/html/newdove && /usr/bin/git add .'
+su -s /bin/sh $user -c 'cd /var/www/html/newdove && /usr/bin/git commit -m "123"'
+su -s /bin/sh $user -c 'cd /var/www/html/newdove && /usr/bin/git push'
+
+~
+~
